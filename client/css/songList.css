@@ -1,0 +1,12 @@
+form {
+  padding: 10px
+}
+
+li.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+li.list-group-item span {
+  cursor: pointer;
+}
